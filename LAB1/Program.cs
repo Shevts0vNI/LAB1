@@ -10,6 +10,8 @@ namespace LAB1
     {
         static void Main(string[] args)
         {
+            int a = 10, b = 15, c = 5;
+            Console.WriteLine((a + b) / c);
         }
     }
 }
